@@ -1,0 +1,49 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JccPropertyHub.Domain.Core", "JccPropertyHub.Domain.Core\JccPropertyHub.Domain.Core.csproj", "{9DD226F0-A102-4F22-9FEC-8D5C068D935B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JccPropertyHub.Domain.Infraestructure", "JccPropertyHub.Domain.Infraestructure\JccPropertyHub.Domain.Infraestructure.csproj", "{BEFC8A34-E1AC-45AE-8791-B0FA75010457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JccPropertyHub.WebApi", "JccPropertyHub.WebApi\JccPropertyHub.WebApi.csproj", "{C554CF53-A2FB-43E5-9D4E-BFF2F1DE03FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JccProperty.Domain.Core.Test", "JccProperty.Domain.Core.Test\JccProperty.Domain.Core.Test.csproj", "{4D523DDD-825A-4A2D-AAEC-0E87E3F3F935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JccProperty.Domain.HotelLegsConnector", "JccProperty.Domain.HotelLegsConnector\JccProperty.Domain.HotelLegsConnector.csproj", "{4B54929B-F531-4637-A7D5-E6FDE6BF7DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JccProperty.Domain.HotelJccConnector", "JccProperty.Domain.HotelJccConnector\JccProperty.Domain.HotelJccConnector.csproj", "{A1A41E2E-E679-4DC8-8458-7803BB2E2666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD226F0-A102-4F22-9FEC-8D5C068D935B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD226F0-A102-4F22-9FEC-8D5C068D935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD226F0-A102-4F22-9FEC-8D5C068D935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD226F0-A102-4F22-9FEC-8D5C068D935B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFC8A34-E1AC-45AE-8791-B0FA75010457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFC8A34-E1AC-45AE-8791-B0FA75010457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFC8A34-E1AC-45AE-8791-B0FA75010457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFC8A34-E1AC-45AE-8791-B0FA75010457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C554CF53-A2FB-43E5-9D4E-BFF2F1DE03FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C554CF53-A2FB-43E5-9D4E-BFF2F1DE03FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C554CF53-A2FB-43E5-9D4E-BFF2F1DE03FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C554CF53-A2FB-43E5-9D4E-BFF2F1DE03FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D523DDD-825A-4A2D-AAEC-0E87E3F3F935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D523DDD-825A-4A2D-AAEC-0E87E3F3F935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D523DDD-825A-4A2D-AAEC-0E87E3F3F935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D523DDD-825A-4A2D-AAEC-0E87E3F3F935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B54929B-F531-4637-A7D5-E6FDE6BF7DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B54929B-F531-4637-A7D5-E6FDE6BF7DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B54929B-F531-4637-A7D5-E6FDE6BF7DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B54929B-F531-4637-A7D5-E6FDE6BF7DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A41E2E-E679-4DC8-8458-7803BB2E2666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A41E2E-E679-4DC8-8458-7803BB2E2666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A41E2E-E679-4DC8-8458-7803BB2E2666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A41E2E-E679-4DC8-8458-7803BB2E2666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

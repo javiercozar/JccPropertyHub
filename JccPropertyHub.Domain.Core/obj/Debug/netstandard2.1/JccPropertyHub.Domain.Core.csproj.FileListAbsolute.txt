@@ -1,0 +1,9 @@
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Core.deps.json
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Core.dll
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Core.pdb
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/obj/Debug/netstandard2.1/JccPropertyHub.Domain.Core.AssemblyInfoInputs.cache
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/obj/Debug/netstandard2.1/JccPropertyHub.Domain.Core.AssemblyInfo.cs
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/obj/Debug/netstandard2.1/JccPropertyHub.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/obj/Debug/netstandard2.1/JccPropertyHub.Domain.Core.dll
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/obj/Debug/netstandard2.1/JccPropertyHub.Domain.Core.pdb
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccPropertyHub.Domain.Core/obj/Debug/netstandard2.1/JccPropertyHub.Domain.Core.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.deps.json
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.dll
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.pdb
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Core.dll
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Infraestructure.dll
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Infraestructure.pdb
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/bin/Debug/netstandard2.1/JccPropertyHub.Domain.Core.pdb
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.csprojAssemblyReference.cache
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.AssemblyInfoInputs.cache
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.AssemblyInfo.cs
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.csproj.CoreCompileInputs.cache
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.csproj.CopyComplete
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.dll
+/Users/javiercc/Projects/JccPropertyHub/JccPropertyHub/JccProperty.Domain.HotelJccConnector/obj/Debug/netstandard2.1/JccProperty.Domain.HotelJccConnector.pdb
